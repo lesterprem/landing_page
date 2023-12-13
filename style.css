@@ -128,3 +128,13 @@ padding-bottom: 70px;
     border: #3882f6 solid 5px;
     border-radius: 6px;
 }
+
+.footer div button{
+    background-color: #3882f6;
+    border: #e5e7eb 1px solid;
+    border-radius: 6px;
+    width: 100px;
+    height: 30px;
+    color: #e5e7eb;
+    font-weight: bold;
+}
